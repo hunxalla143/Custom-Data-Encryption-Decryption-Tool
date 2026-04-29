@@ -166,7 +166,7 @@ project-folder/
 
 ## Author
 
-**Hunzalla AJab**
+**Hunzalla Ajab**
 
 ---
 
